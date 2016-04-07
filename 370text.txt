@@ -1,0 +1,29 @@
+1:MyException:0:MyException ()
+1:MyException:1:MyException (String s):Bad
+0:IC:0:ICfunc:1 0 0
+0:IC:0:ICfunc:1 1 1
+0:IC:1:CompareFunc:1
+0:IC:1:CompareFunc:0
+0:IC:0:ICfunc:1 1 0
+0:IC:1:CompareFunc:0
+0:IC:1:CompareFunc:1
+0:IC:0:ICfunc:2 0 0
+0:IC:0:ICfunc:2 0 1
+0:IC:1:CompareFunc:0
+0:IC:1:CompareFunc:1
+0:IC:0:ICfunc:2 0 7
+0:IC:1:CompareFunc:5
+0:IC:1:CompareFunc:4
+0:IC:0:ICfunc:2 1 0
+0:IC:1:CompareFunc:2
+0:IC:1:CompareFunc:1
+0:IC:0:ICfunc:0 0 0
+2:OC:0:OCfunc:0 0
+2:OC:1:OCinit:
+2:OC:0:OCfunc:1 1
+2:OC:1:OCinit:
+2:OC:0:OCfunc:1 0
+2:OC:1:OCinit:
+2:OC:0:OCfunc:0 1
+2:OC:1:OCinit:
+2:OC:0:OCfunc:0 7
